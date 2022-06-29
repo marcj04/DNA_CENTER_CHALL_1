@@ -1,0 +1,8 @@
+#DNA CENTER HOST INFORMATION
+DNAC_IP = 'sandboxdnac.cisco.com'
+DNAC_PORT = 443
+
+#DNAC CREDENTIALS
+DNAC_USER = 'devnetuser'
+DNAC_PASSWORD = 'Cisco123!'
+
